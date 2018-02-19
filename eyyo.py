@@ -5,5 +5,5 @@ while (True):
         print ("hej " +"Sigge" + "!")
         break   
     else:
-        print ("försök igen")
+        print ("försök igen dumfan")
         
